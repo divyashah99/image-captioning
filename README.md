@@ -32,7 +32,7 @@ Our findings show that:
 - **Decoder**: LSTM with word embeddings
 - **Training set**: 8,000 COCO images
 
-![LSTM Architecture](models/lstm_architecture.png)
+![LSTM Architecture](models/lstmfinal.png)
 *Figure 3: LSTM with Attention Architecture*
 
 ### Transformer Model
@@ -42,7 +42,7 @@ Our findings show that:
 - **Components**: Self-attention, cross-attention, feed-forward
 - **Training set**: 12,000 COCO images
 
-![Transformer Architecture](models/transformer_architecture.png)
+![Transformer Architecture](models/transfoemr.png)
 *Figure 4: Transformer Architecture*
 
 ## Example Outputs
