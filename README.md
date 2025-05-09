@@ -43,6 +43,7 @@ Our findings show that:
 - **Training set**: 12,000 COCO images
 
 ![Transformer Architecture](models/transfoemr.png)
+
 *Figure 4: Transformer Architecture*
 
 ## Example Outputs
