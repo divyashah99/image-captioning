@@ -52,6 +52,7 @@ Below are sample outputs from our models:
 
 ![Caption Examples](results/sample_captions.png)
 ![Caption Examples](results/sample_captions1.png)
+
 *Figure 5: Example images with generated captions*
 
 ## Features
